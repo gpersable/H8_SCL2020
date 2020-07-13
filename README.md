@@ -27,8 +27,8 @@ Are the regulators questioning a business owner about burning coal illegally? Or
 
 1. Ambiguity / Crash Blossom  
 It is the challenge when a Single word has different meanings or a sentence that has different meanings in the context and even a sentence refers to sarcasm.
-  * Lexical Ambiguity is the presence of two or more possible meanings within a single word. (ie. I saw her duck)
-  * Syntactic Ambiguity is the presence of two or more possible meanings within a single sentence or sequence of words. (ie. The chicken is ready to eat)
+   * Lexical Ambiguity is the presence of two or more possible meanings within a single word. (ie. I saw her duck)
+   * Syntactic Ambiguity is the presence of two or more possible meanings within a single sentence or sequence of words. (ie. The chicken is ready to eat)
 2. Syntax  
 Think of how a sentence is valid, it based on two things called syntax and semantics where syntax refers to the grammatical rules, on the other hand, semantics is the meaning of the vocabulary symbols within that structure. People change the ordering of sentences it is valid in some cases but not all.
 3. Co-reference / Anaphora Resolution  
@@ -37,7 +37,7 @@ The problem of resolving what a pronoun, or a noun phrase refers to. (ie. Hackti
 5. Sarcasm  
 Same words different meaning refers to the Ambiguity topic. Suppose when someone does something wrong you reply as very good or well done. it’s also a challenge for a computer to understand the sarcasm because it’s a way more different than a normal conversation.
 
-## Aplications of NLP
+## Applications of NLP
 - Machine Translation
 - Information Extraction
 - **Sentiment Analysis**
